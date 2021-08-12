@@ -1,0 +1,25 @@
+
+
+.nav-list-link {
+  border-left: 7px solid #000;
+}
+
+.nav-list-link.active {
+  border-left: 7px solid #ff6600;
+  color: #ff6600;
+}
+
+.nav-list .nav-list-item > .nav-list {
+  padding-left: 0rem !important;
+}
+
+.nav-list .nav-list-item > .nav-list .nav-list-link {
+  padding-left: 2.7rem !important;
+}
+
+.black-box {
+  display: block;
+  padding: 10%;
+  background-color: #000;
+  border-radius: 1em;
+}
