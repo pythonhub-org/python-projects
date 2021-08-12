@@ -24,8 +24,7 @@ This is an open source project, anyone can contribute.
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue or
-email. Read more about becoming a contributor in [our GitHub repo](https://pythonhub-org.github.io/python-projects/docs/contributing/).
+Read more about becoming a contributor in [our GitHub repo](https://pythonhub-org.github.io/python-projects/docs/contributing/).
 
 ## License
 
