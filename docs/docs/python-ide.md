@@ -8,8 +8,8 @@ nav_order: 4
 
 - Interactive Learning Platform
 - Write python code in editor and just run.
-
-Note: It takes few seconds after you press run for the first time.
+- It takes few seconds after you press **Run** button for the first time.
+- If you want bigger editor area then [check this editor](https://compiler.pythonhub.org)
 
 <div data-datacamp-exercise data-lang="python" data-height="auto">
   <code data-type="pre-exercise-code"></code>
