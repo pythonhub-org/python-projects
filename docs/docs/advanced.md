@@ -4,7 +4,7 @@ title: Advanced
 nav_order: 4
 ---
 
-## List of Python Advanced Projects
+## List of Advanced Python Projects
 
 | Sr no        | Advanced Projects | Author | 
 |:-------------|:------------------|:------|
