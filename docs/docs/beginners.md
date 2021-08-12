@@ -4,7 +4,7 @@ title: Beginners
 nav_order: 2
 ---
 
-## List of Python Beginners Projects
+## List of Beginners Python Projects
 
 | Sr no        | Beginners Projects | Author | 
 |:-------------|:------------------|:------|
