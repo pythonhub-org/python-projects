@@ -1,3 +1,9 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
 # Python Projects for Practice
 
 Python projects will help you to enhance your coding knoweledge. We listed projects under three categories, beginners, intermediate and advanced. Depending on your current skills level you can practice these projects. Hope they will help you to enhance your Python Coding knowledge.
