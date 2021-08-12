@@ -4,7 +4,7 @@ title: Intermediate
 nav_order: 3
 ---
 
-## List of Python Intermediate Projects
+## List of Intermediate Python Projects
 
 | Sr no        | Intermediate Projects | Author | 
 |:-------------|:------------------|:------|
