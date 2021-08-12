@@ -8,7 +8,7 @@
 ![Issues](https://img.shields.io/github/issues/pythonhub-org/python-projects)
 ![Pull Requests](https://img.shields.io/github/issues-pr/pythonhub-org/python-projects?)
 ![Forks](https://img.shields.io/github/forks/pythonhub-org/python-projects)
-![Stars](https://img.shields.io/github/stars/cpythonhub-org/python-projects)
+![Stars](https://img.shields.io/github/stars/pythonhub-org/python-projects)
 
 
 # Python Projects for Practice
