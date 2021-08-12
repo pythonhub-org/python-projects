@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 # How to Contribute to Python Projects
-This is an open source project and anyone can contribute. follow below steps to submit Python projects you developed. It may help others.
+This is an open source project and anyone can contribute. Follow below steps to submit Python projects you developed, it may help others.
 
 # Step for Submitting your Project
 - Make sure project you are submitting is not already present.
