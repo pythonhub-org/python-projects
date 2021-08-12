@@ -6,11 +6,12 @@
 
 # Python Projects for Practice
 
-![License](https://img.shields.io/github/license/pythonhub-org/python-projects)
-![Issues](https://img.shields.io/github/issues/pythonhub-org/python-projects)
-![Pull Requests](https://img.shields.io/github/issues-pr/pythonhub-org/python-projects?)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Forks](https://img.shields.io/github/forks/pythonhub-org/python-projects)
 ![Stars](https://img.shields.io/github/stars/pythonhub-org/python-projects)
+![Issues](https://img.shields.io/github/issues/pythonhub-org/python-projects)
+![Pull Requests](https://img.shields.io/github/issues-pr/pythonhub-org/python-projects?)
+
 
 
 Python projects will help you to enhance your coding knoweledge. We listed projects under three categories, beginners, intermediate and advanced. Depending on your current skills level you can practice these projects. Hope they will help you to enhance your Python Coding knowledge.
