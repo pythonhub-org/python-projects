@@ -50,5 +50,5 @@ Python projects will help you to enhance your coding knoweledge. We listed proje
 |1| [Hangman Game](https://github.com/pythonhub-org/py-projects/tree/main/projects/advanced/hangman_game) | [Samanyu](https://github.com/samanyuw)|
 |2| [Mind Game](https://github.com/pythonhub-org/py-projects/tree/main/projects/advanced/mind_game) | [Samanyu](https://github.com/samanyuw)|
 
-
-
+---
+Made with ♥ by Python Developers
