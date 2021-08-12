@@ -2,7 +2,7 @@
 
 Python projects will help you to enhance your coding knoweledge. We listed projects under three categories, beginners, intermediate and advanced. Depending on your current skills level you can practice these projects. Hope they will help you to enhance your Python Coding knowledge.
 
-## List of Python Beginners Projects
+## Beginners Python Projects
 
 | Sr no        | Beginners Projects | Author | 
 |:-------------|:------------------|:------|
@@ -17,7 +17,7 @@ Python projects will help you to enhance your coding knoweledge. We listed proje
 |9| [Count Vowels](https://github.com/pythonhub-org/py-projects/tree/main/projects/beginners/count_vowels) | [Samanyu](https://github.com/samanyuw)|
 
 
-## List of Python Intermediate Projects
+## Intermediate Python Projects
 
 | Sr no        | Intermediate Projects | Author | 
 |:-------------|:------------------|:------|
@@ -26,7 +26,7 @@ Python projects will help you to enhance your coding knoweledge. We listed proje
 |3| [Seconds to Hours Convertor](https://github.com/pythonhub-org/py-projects/tree/main/projects/intermediate/seconds_to_hours_convertor) | [Samanyu](https://github.com/samanyuw)|
 |4| [String Search in Text File](https://github.com/pythonhub-org/py-projects/tree/main/projects/intermediate/string_search_in_text_files) | [Samanyu](https://github.com/samanyuw)|
 
-## List of Python Advanced Projects
+## Advanced Python Projects
 
 | Sr no        | Advanced Projects | Author | 
 |:-------------|:------------------|:------|
