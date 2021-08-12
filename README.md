@@ -6,12 +6,15 @@
 
 # Python Projects for Practice
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Forks](https://img.shields.io/github/forks/pythonhub-org/python-projects)
-![Stars](https://img.shields.io/github/stars/pythonhub-org/python-projects)
-![Issues](https://img.shields.io/github/issues/pythonhub-org/python-projects)
-![Pull Requests](https://img.shields.io/github/issues-pr/pythonhub-org/python-projects?)
+[![GitHub license](https://img.shields.io/github/license/pythonhub-org/python-projects.svg)](https://github.com/pythonhub-org/python-projects/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/pythonhub-org/python-projects.svg)](https://GitHub.com/pythonhub-org/python-projects/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/pythonhub-org/python-projects.svg)](https://GitHub.com/pythonhub-org/python-projects/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/pythonhub-org/python-projects.svg)](https://GitHub.com/pythonhub-org/python-projects/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/pythonhub-org/python-projects.svg?style=social&label=Watch)](https://GitHub.com/pythonhub-org/python-projects/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/pythonhub-org/python-projects.svg?style=social&label=Fork)](https://GitHub.com/pythonhub-org/python-projects/network/)
+[![GitHub stars](https://img.shields.io/github/stars/pythonhub-org/python-projects.svg?style=social&label=Star)](https://GitHub.com/pythonhub-org/python-projects/stargazers/)
 
 
 Python projects will help you to enhance your coding knoweledge. We listed projects under three categories, beginners, intermediate and advanced. Depending on your current skills level you can practice these projects. Hope they will help you to enhance your Python Coding knowledge.
