@@ -30,7 +30,7 @@ Read more about becoming a contributor in [our GitHub repo](https://pythonhub-or
 
 Python Projects are distributed by an [MIT license](https://github.com/pythonhub-org/python-projects/blob/main/docs/LICENSE.txt).
 
-### Thank you to the contributors of Python Projects!
+## Contributors ✨
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
